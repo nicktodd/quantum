@@ -1,6 +1,6 @@
 # will also need pandas, numpy and matplotlib
 
-
+pylatexenc
 qiskit
 qiskit-aer
 amazon-braket-sdk

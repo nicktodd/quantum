@@ -5,6 +5,7 @@ Many of the demonstrations require the qiskit simulator library to be installed.
 ```
 pip install qiskit
 pip install qiskit-aer
+pip install pylatexenc
 
 ```
 
