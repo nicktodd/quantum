@@ -9,7 +9,7 @@
 pip install qiskit
 pip install qiskit-aer
 pip install pylatexenc
-
+```
 
 ## 🎯 Course Overview
 
