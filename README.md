@@ -4,14 +4,12 @@
 >
 > This repository contains comprehensive course materials, hands-on labs, and practical demonstrations for quantum computing using Qiskit. These materials provide a structured learning path from quantum fundamentals to advanced algorithms and real quantum hardware integration.
 
-<<<<<<< HEAD
----
-=======
+
 ```
 pip install qiskit
 pip install qiskit-aer
 pip install pylatexenc
->>>>>>> 5b4890b05feba5b2abb85a725a9112d547039c28
+
 
 ## 🎯 Course Overview
 
