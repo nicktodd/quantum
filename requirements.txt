@@ -4,3 +4,4 @@ pylatexenc
 qiskit
 qiskit-aer
 amazon-braket-sdk
+matplotlib
