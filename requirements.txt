@@ -5,3 +5,7 @@ qiskit
 qiskit-aer
 amazon-braket-sdk
 matplotlib
+
+# needed for optimization algorithms in demo 8-optimization-optimization
+qiskit-algorithms
+qiskit-optimization
